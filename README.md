@@ -26,7 +26,7 @@ Ex: ![pessoacomendereco](pessoacomendereco.PNG)
 2. Value Object:
     - É um pequeno objeto que representa uma simples entidade mas que não possui um indentificador. Dois objetos de valor são iguais quando seus valores são os mesmos.
 
-Ex: 
+Ex: ![pessoaendereco](pessoaendereco.PNG)
 
 
 **Obs:** Na tabela no banco de dados a informação de endereço pertenceria a tabela `Pessoa`.
@@ -35,8 +35,8 @@ Ex:
 
 - `Anêmico`: Deixa a responsabilidade de validação dos seus dados para outra classe.
 
-Ex: ![objanemico](anemico.PNG)
+![objanemico](anemico.PNG)
 
 - `Rico`: Tem a responsabilidade sobre seus dados.
 
-Ex: ![objrico](rico.PNG)
+![objrico](rico.PNG)
