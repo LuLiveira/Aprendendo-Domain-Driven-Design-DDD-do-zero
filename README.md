@@ -21,12 +21,12 @@
 1. Entidade: 
     - Desenhamos um conceito de dominio como entidade quando existe uma importancia de forma individual, quando temos que distinguir de todos os outros objetos.
 
-Ex: ![pessoacomendereco](pessoacomendereco.PNG)
+![pessoacomendereco](pessoacomendereco.PNG)
 
 2. Value Object:
     - É um pequeno objeto que representa uma simples entidade mas que não possui um indentificador. Dois objetos de valor são iguais quando seus valores são os mesmos.
 
-Ex: ![pessoaendereco](pessoaendereco.PNG)
+![pessoaendereco](pessoaendereco.PNG)
 
 
 **Obs:** Na tabela no banco de dados a informação de endereço pertenceria a tabela `Pessoa`.
